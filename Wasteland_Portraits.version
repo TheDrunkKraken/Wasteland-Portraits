@@ -1,0 +1,10 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/TheDrunkKraken/Wasteland-Portraits/main/Wasteland_Portraits.version",
+    "modName":"Wasteland Portraits",
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":0
+    },
+}
